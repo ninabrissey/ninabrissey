@@ -2,6 +2,26 @@
 - 👀   I’m interested in all things outdoors, filmmaking, and yummy vegan food! 
 - 🌱   I’m currently enrolled in the FE program at Turing School of Software and Design.
 
+## Connect With Me
+
+<section align="left">
+  <a href="https://www.linkedin.com/in/ninabrissey/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
+  <a href="mailto:nbrissey@@gmail.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
+</section>
+
+## Stats
+<section align="center">
+  <div>
+    <a href="https://github.com/ninabrissey/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=ninabrissey&show_icons=true&theme=algolia" align="center" height="200" width="500" />
+    </a>
+  </div><br/>
+  <div>
+    <a href="https://github.com/ninabrissey/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninabrissey&layout=compact&theme=algolia" align="center" />
+    </a>
+  </div>
+</section><br/>
 <h3>Skills</h3> 
 <table>
      <tr>
