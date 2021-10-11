@@ -13,12 +13,12 @@
 <section align="center">
   <div>
     <a href="https://github.com/ninabrissey/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=ninabrissey&show_icons=true&theme=algolia" align="center" height="200" width="500" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ninabrissey&show_icons=true&theme=vue" align="center" height="200" width="500" />
     </a>
   </div><br/>
   <div>
     <a href="https://github.com/ninabrissey/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninabrissey&layout=compact&theme=algolia" align="center" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninabrissey&layout=compact&theme=vue" align="center" />
     </a>
   </div>
 </section><br/>
@@ -36,6 +36,18 @@
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/nodejs.png" alt="NodeJS" width="50" height="auto" /></td>
     </tr>
  </table>
+
+## Projects
+<section>
+  <div>
+    <a href="https://github.com/ninabrissey/the-film-vault">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ninabrissey&the-film-vault&theme=vue" align="center" height="200" width="400"/>
+    </a>
+    <a href="https://github.com/ninabrissey/clean-beauty">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ninabrissey&clean-beauty&theme=vue" align="center" height="200" width="400"/>
+    </a>
+  </div>
+</section><br/>
 
 <!---
 ninabrissey/ninabrissey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
