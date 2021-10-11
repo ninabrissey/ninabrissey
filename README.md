@@ -23,7 +23,7 @@
   </div>
 </section><br/>
 <h3>Skills</h3> 
-<table>
+<table align="center">
      <tr>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/jslogo.png" alt="JavaScript" width="50" height="auto" /></td>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/html5.png" alt="HTML" width="50" height="auto" /></td>
