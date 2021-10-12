@@ -41,7 +41,7 @@
 <section align="center">
   <div>
     <a href="https://github.com/ninabrissey/the-film-vault">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ninabrissey&repo=the-film-vault&theme=vue-dark" align="center" height="200" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ninabrissey&repo=the-film-vault&theme=vue-dark" align="center" height="200" width="500"/>
     </a>
     <a href="https://github.com/ninabrissey/clean-beauty">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=ninabrissey&repo=clean-beauty&theme=vue-dark" align="center" height="200" width="400"/>
