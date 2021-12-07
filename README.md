@@ -39,11 +39,11 @@
 
 ## Projects
 <section display="flex" align="center">
-  <div>
+  <div margin="0">
     <a href="https://github.com/ninabrissey/the-film-vault">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=ninabrissey&repo=the-film-vault&theme=vue-dark" align="center" height="300" width="400"/>
     </a>
-  </div><br />
+  </div>
   <div>
     <a href="https://github.com/ninabrissey/clean-beauty">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=ninabrissey&repo=clean-beauty&theme=vue-dark" align="center" height="300" width="400"/>
