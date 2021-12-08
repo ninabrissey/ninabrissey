@@ -36,5 +36,3 @@
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/nodejs.png" alt="NodeJS" width="50" height="auto" /></td>
     </tr>
  </table>
-
-## Projects
