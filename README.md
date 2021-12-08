@@ -1,6 +1,6 @@
-👋   Hi, I’m @ninabrissey
-👀   I’m interested in all things outdoors, filmmaking, and yummy vegan food! 
-🌱   I’m recently graduated from the FE program at Turing School of Software and Design.
+👋   Hi, I’m @ninabrissey <br/>
+👀   I’m interested in all things outdoors, filmmaking, and yummy vegan food! <br/>
+🌱   I’m recently graduated from the FE program at Turing School of Software and Design. <br/>
 
 ## Connect With Me
 
