@@ -13,12 +13,12 @@
 <section align="center">
   <div>
     <a href="https://github.com/ninabrissey/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=ninabrissey&show_icons=true&theme=vue-dark" align="center" height="200" width="500" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ninabrissey&show_icons=true&theme=github_dark" align="center" height="200" width="500" />
     </a>
   </div><br/>
   <div>
     <a href="https://github.com/ninabrissey/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninabrissey&layout=compact&theme=vue-dark" align="center" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninabrissey&layout=compact&theme=github_dark" align="center" />
     </a>
   </div>
 </section><br/>
